@@ -15,5 +15,21 @@
     "createdAt": "2026-09-02T12:39:44.181Z",
     "createdBy": "alper",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/thankyou",
+    "type": "page",
+    "title": "ThankYou",
+    "seoTitle": "Thank You — Your Brief Is In | Reel The Moment",
+    "seoDescription": "Thank you for your brief. Reel The Moment is matching your request to photographers and videographers in your area right now.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-02T12:41:00.084Z",
+    "updatedBy": "alper",
+    "createdAt": "2026-09-02T12:41:00.084Z",
+    "createdBy": "alper"
   }
 ]
