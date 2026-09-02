@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Event Photographers & Videographers AU | Reel The Moment",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-02T12:39:44.181Z",
+    "status": "published",
+    "updatedAt": "2026-09-02T12:40:06.698Z",
     "updatedBy": "alper",
     "createdAt": "2026-09-02T12:39:44.181Z",
-    "createdBy": "alper"
+    "createdBy": "alper",
+    "isHome": true
   }
 ]
