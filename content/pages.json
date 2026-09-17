@@ -32,5 +32,21 @@
     "createdAt": "2026-09-02T12:41:00.084Z",
     "createdBy": "alper",
     "noindex": true
+  },
+  {
+    "id": "pg-3",
+    "path": "/index",
+    "type": "page",
+    "title": "Event Photographers & Videographers | Reel The Moment",
+    "seoTitle": "Event Photographers & Videographers | Reel The Moment",
+    "seoDescription": "Find event photographers, wedding photographers and videographers across Australia. Explore styles, compare portfolios and request quotes with Reel The Moment.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-09-17T00:01:05.815Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-17T00:01:05.815Z",
+    "updatedBy": "joshua"
   }
 ]
