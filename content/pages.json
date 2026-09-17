@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/",
+    "path": "/home",
     "type": "page",
     "title": "Home",
     "seoTitle": "Event Photographers & Videographers AU | Reel The Moment",
@@ -10,11 +10,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-09-02T12:40:15.869Z",
-    "updatedBy": "alper",
+    "updatedAt": "2026-09-17T00:01:46.208Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-09-02T12:39:44.181Z",
     "createdBy": "alper",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -35,7 +35,7 @@
   },
   {
     "id": "pg-3",
-    "path": "/index",
+    "path": "/",
     "type": "page",
     "title": "Event Photographers & Videographers | Reel The Moment",
     "seoTitle": "Event Photographers & Videographers | Reel The Moment",
@@ -43,10 +43,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T00:01:05.815Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-17T00:01:05.815Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-17T00:01:46.208Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
