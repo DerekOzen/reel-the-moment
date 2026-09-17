@@ -1,0 +1,323 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mu56gemj-4nnu",
+      "at": "2026-09-17T06:57:34.219Z",
+      "count": 78,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-744AD066"
+        },
+        {
+          "path": "/services",
+          "newRecordId": "SCHEMA-E9C5B103"
+        },
+        {
+          "path": "/services/photography",
+          "newRecordId": "SCHEMA-D48DD7B8"
+        },
+        {
+          "path": "/services/videography",
+          "newRecordId": "SCHEMA-7F039763"
+        },
+        {
+          "path": "/services/photography/photographers",
+          "newRecordId": "SCHEMA-57AD900E"
+        },
+        {
+          "path": "/services/photography/wedding-photographers",
+          "newRecordId": "SCHEMA-EDE4260D"
+        },
+        {
+          "path": "/services/photography/event-photographers",
+          "newRecordId": "SCHEMA-638907B1"
+        },
+        {
+          "path": "/services/photography/party-photographers",
+          "newRecordId": "SCHEMA-D1F2660C"
+        },
+        {
+          "path": "/services/photography/birthday-photographers",
+          "newRecordId": "SCHEMA-A88367E3"
+        },
+        {
+          "path": "/services/photography/engagement-photographers",
+          "newRecordId": "SCHEMA-A4ADA3C6"
+        },
+        {
+          "path": "/services/photography/corporate-photographers",
+          "newRecordId": "SCHEMA-C1C4EB2C"
+        },
+        {
+          "path": "/services/videography/videographers",
+          "newRecordId": "SCHEMA-97AA10F5"
+        },
+        {
+          "path": "/services/videography/wedding-videographers",
+          "newRecordId": "SCHEMA-A0861F2D"
+        },
+        {
+          "path": "/services/videography/event-videographers",
+          "newRecordId": "SCHEMA-88E17DCF"
+        },
+        {
+          "path": "/services/videography/party-videographers",
+          "newRecordId": "SCHEMA-F8B39898"
+        },
+        {
+          "path": "/services/videography/corporate-videographers",
+          "newRecordId": "SCHEMA-2CBDCCB9"
+        },
+        {
+          "path": "/services/videography/highlight-films",
+          "newRecordId": "SCHEMA-0F7A50F5"
+        },
+        {
+          "path": "/events",
+          "newRecordId": "SCHEMA-83CB519B"
+        },
+        {
+          "path": "/events/weddings",
+          "newRecordId": "SCHEMA-D1EEC8F4"
+        },
+        {
+          "path": "/events/birthday-parties",
+          "newRecordId": "SCHEMA-8D47020E"
+        },
+        {
+          "path": "/events/engagements",
+          "newRecordId": "SCHEMA-B45A38C0"
+        },
+        {
+          "path": "/events/baby-showers",
+          "newRecordId": "SCHEMA-EB7B4506"
+        },
+        {
+          "path": "/events/christenings",
+          "newRecordId": "SCHEMA-9FD767B8"
+        },
+        {
+          "path": "/events/corporate-events",
+          "newRecordId": "SCHEMA-7DF52DD9"
+        },
+        {
+          "path": "/events/private-celebrations",
+          "newRecordId": "SCHEMA-97D93C6E"
+        },
+        {
+          "path": "/locations",
+          "newRecordId": "SCHEMA-BCF37A1C"
+        },
+        {
+          "path": "/locations/nsw",
+          "newRecordId": "SCHEMA-6C77D122"
+        },
+        {
+          "path": "/locations/vic",
+          "newRecordId": "SCHEMA-A187B91B"
+        },
+        {
+          "path": "/locations/qld",
+          "newRecordId": "SCHEMA-5F9B0278"
+        },
+        {
+          "path": "/locations/wa",
+          "newRecordId": "SCHEMA-2CC8AACE"
+        },
+        {
+          "path": "/locations/nsw/photographer-sydney",
+          "newRecordId": "SCHEMA-6C6ECACD"
+        },
+        {
+          "path": "/locations/nsw/photographer-newcastle",
+          "newRecordId": "SCHEMA-70B56232"
+        },
+        {
+          "path": "/locations/nsw/photographer-central-coast",
+          "newRecordId": "SCHEMA-6C12C7B4"
+        },
+        {
+          "path": "/locations/nsw/photographer-wollongong",
+          "newRecordId": "SCHEMA-0D28CAF4"
+        },
+        {
+          "path": "/locations/nsw/photographer-byron-bay",
+          "newRecordId": "SCHEMA-297563B7"
+        },
+        {
+          "path": "/locations/nsw/photographer-coffs-harbour",
+          "newRecordId": "SCHEMA-66A446FF"
+        },
+        {
+          "path": "/locations/nsw/photographer-southern-highlands",
+          "newRecordId": "SCHEMA-912C2309"
+        },
+        {
+          "path": "/locations/nsw/photographer-blue-mountains",
+          "newRecordId": "SCHEMA-E991E335"
+        },
+        {
+          "path": "/locations/nsw/photographer-hunter-valley",
+          "newRecordId": "SCHEMA-D86854E2"
+        },
+        {
+          "path": "/locations/nsw/photographer-albury",
+          "newRecordId": "SCHEMA-0EB4E536"
+        },
+        {
+          "path": "/locations/nsw/photographer-campbelltown",
+          "newRecordId": "SCHEMA-3C3F629D"
+        },
+        {
+          "path": "/locations/nsw/photographer-penrith",
+          "newRecordId": "SCHEMA-1221BA7D"
+        },
+        {
+          "path": "/locations/nsw/photographer-sutherland-shire",
+          "newRecordId": "SCHEMA-6DB6E0F9"
+        },
+        {
+          "path": "/locations/nsw/photographer-port-macquarie",
+          "newRecordId": "SCHEMA-865EB072"
+        },
+        {
+          "path": "/locations/nsw/photographer-orange",
+          "newRecordId": "SCHEMA-9DAC8CAA"
+        },
+        {
+          "path": "/locations/nsw/photographer-tamworth",
+          "newRecordId": "SCHEMA-908338D2"
+        },
+        {
+          "path": "/locations/nsw/photographer-blacktown",
+          "newRecordId": "SCHEMA-A43B94BD"
+        },
+        {
+          "path": "/locations/vic/photographer-melbourne",
+          "newRecordId": "SCHEMA-C214A43E"
+        },
+        {
+          "path": "/locations/vic/photographer-geelong",
+          "newRecordId": "SCHEMA-B6A525EB"
+        },
+        {
+          "path": "/locations/vic/photographer-ballarat",
+          "newRecordId": "SCHEMA-0A1A5C5B"
+        },
+        {
+          "path": "/locations/vic/photographer-bendigo",
+          "newRecordId": "SCHEMA-9BC2CCC1"
+        },
+        {
+          "path": "/locations/vic/photographer-frankston",
+          "newRecordId": "SCHEMA-2F226D5B"
+        },
+        {
+          "path": "/locations/vic/photographer-mornington-peninsula",
+          "newRecordId": "SCHEMA-96906419"
+        },
+        {
+          "path": "/locations/vic/photographer-shepparton",
+          "newRecordId": "SCHEMA-AB9C0D9F"
+        },
+        {
+          "path": "/locations/vic/photographer-werribee",
+          "newRecordId": "SCHEMA-D0079F5B"
+        },
+        {
+          "path": "/locations/vic/photographer-yarra-valley",
+          "newRecordId": "SCHEMA-230D8AD2"
+        },
+        {
+          "path": "/locations/qld/photographer-brisbane",
+          "newRecordId": "SCHEMA-D9A303EB"
+        },
+        {
+          "path": "/locations/qld/photographer-gold-coast",
+          "newRecordId": "SCHEMA-E0069D17"
+        },
+        {
+          "path": "/locations/qld/photographer-sunshine-coast",
+          "newRecordId": "SCHEMA-E021B1FF"
+        },
+        {
+          "path": "/locations/qld/photographer-cairns",
+          "newRecordId": "SCHEMA-BB7DA94A"
+        },
+        {
+          "path": "/locations/qld/photographer-townsville",
+          "newRecordId": "SCHEMA-E406A2F6"
+        },
+        {
+          "path": "/locations/qld/photographer-toowoomba",
+          "newRecordId": "SCHEMA-20C1383B"
+        },
+        {
+          "path": "/locations/qld/photographer-bundaberg",
+          "newRecordId": "SCHEMA-FBFDEDBC"
+        },
+        {
+          "path": "/locations/qld/photographer-hervey-bay",
+          "newRecordId": "SCHEMA-7E8475FB"
+        },
+        {
+          "path": "/locations/qld/photographer-mackay",
+          "newRecordId": "SCHEMA-C5FFDFA5"
+        },
+        {
+          "path": "/locations/qld/photographer-rockhampton",
+          "newRecordId": "SCHEMA-3FA956FC"
+        },
+        {
+          "path": "/locations/qld/photographer-ipswich",
+          "newRecordId": "SCHEMA-447D492C"
+        },
+        {
+          "path": "/locations/qld/photographer-noosa",
+          "newRecordId": "SCHEMA-1379A51F"
+        },
+        {
+          "path": "/locations/wa/photographer-perth",
+          "newRecordId": "SCHEMA-FB722FD8"
+        },
+        {
+          "path": "/locations/wa/photographer-mandurah",
+          "newRecordId": "SCHEMA-0CE667ED"
+        },
+        {
+          "path": "/locations/wa/photographer-bunbury",
+          "newRecordId": "SCHEMA-F9E38AE4"
+        },
+        {
+          "path": "/locations/wa/photographer-margaret-river",
+          "newRecordId": "SCHEMA-428CA7F1"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-63EEE818"
+        },
+        {
+          "path": "/get-quotes",
+          "newRecordId": "SCHEMA-9E39DB6F"
+        },
+        {
+          "path": "/ideas-inspiration",
+          "newRecordId": "SCHEMA-99EB220C"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-718A03D9"
+        },
+        {
+          "path": "/terms",
+          "newRecordId": "SCHEMA-9BF0752A"
+        },
+        {
+          "path": "/thank-you",
+          "newRecordId": "SCHEMA-EE652FD1"
+        }
+      ]
+    }
+  ]
+}
