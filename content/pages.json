@@ -9,8 +9,8 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
-    "updatedAt": "2026-09-17T00:02:04.777Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-17T00:08:48.898Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-02T12:39:44.181Z",
     "createdBy": "alper",
@@ -26,12 +26,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
-    "updatedAt": "2026-09-17T00:02:04.777Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-17T00:08:48.898Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-02T12:41:00.084Z",
     "createdBy": "alper",
-    "noindex": true
+    "noindex": true,
+    "isHome": false
   },
   {
     "id": "pg-3",
