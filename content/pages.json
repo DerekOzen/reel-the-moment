@@ -1200,8 +1200,9 @@
     "status": "published",
     "createdAt": "2026-09-17T00:51:11.629Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-17T00:51:48.630Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-21T01:32:28.317Z",
+    "updatedBy": "joshua",
+    "noindex": true
   },
   {
     "id": "pg-76",
