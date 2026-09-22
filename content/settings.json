@@ -1,10 +1,10 @@
 {
   "name": "Reel The Moment",
   "tagline": "Find Event Photographers, Videographers & Wedding Photography Services Across Australia.",
-  "phone": "",
-  "email": "",
+  "phone": "N/A",
+  "email": "info@reelthemoment.com.au",
   "areas": "AUSTRALIA",
-  "hoursWeek": "Mon–Fri 9am–5pm",
-  "hoursSat": "Closed",
+  "hoursWeek": "9am–5pm",
+  "hoursSat": "9am–5pm",
   "siteUrl": "https://reelthemoment.com.au/"
 }
